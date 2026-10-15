@@ -499,3 +499,4 @@ if __name__ == "__main__":
     mobile_app_session.execute_withdrawal(2000)
     print(f"Final Combined Balance: ₹{mobile_app_session.check_balance()}")
 ```
+<img width="3384" height="1902" alt="image" src="https://github.com/user-attachments/assets/c15fc4c4-a8cd-4ea5-b006-74953e8d03ba" />
